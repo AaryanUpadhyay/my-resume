@@ -1,10 +1,10 @@
 # my-resume
 # Aryan Upadhyay
 
-**Full Stack Developer** | Gurgaon, Haryana | [aaryanupadhyay2803@gmail.com](mailto:aaryanupadhyay2803@gmail.com) | 📱 8448307099
+ Gurgaon, Haryana | [aaryanupadhyay2803@gmail.com](mailto:aaryanupadhyay2803@gmail.com) | 📱 8448307099
 
 ## 📄 Resume
-[📥 Download Resume PDF]([(https://github.com/AaryanUpadhyay/my-resume/blob/394dcd8ffa12e8ec3cf49e1cea0979016df22412/Aryan%20Resume.pdf)])
+[📥 Download Resume PDF](./Aryan_Resume.pdf)
 
 ## 💼 Skills
 - **Languages:** Java, C++, JavaScript, MySQL, HTML, CSS
