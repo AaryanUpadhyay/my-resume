@@ -4,7 +4,7 @@
 **Full Stack Developer** | Gurgaon, Haryana | [aaryanupadhyay2803@gmail.com](mailto:aaryanupadhyay2803@gmail.com) | 📱 8448307099
 
 ## 📄 Resume
-[📥 Download Resume PDF](./AryanResume.pdf)
+[📥 Download Resume PDF](./Aryan Resume.pdf)
 
 ## 💼 Skills
 - **Languages:** Java, C++, JavaScript, MySQL, HTML, CSS
