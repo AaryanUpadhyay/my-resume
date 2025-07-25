@@ -4,7 +4,7 @@
  Gurgaon, Haryana | [aaryanupadhyay2803@gmail.com](mailto:aaryanupadhyay2803@gmail.com) | 📱 8448307099
 
 ## 📄 Resume
-[📥 Download Resume PDF](./Aryan_Resume.pdf)
+[📥 Download Resume PDF](./Resume_Aryan.pdf)
 
 ## 💼 Skills
 - **Languages:** Java, C++, JavaScript, MySQL, HTML, CSS
